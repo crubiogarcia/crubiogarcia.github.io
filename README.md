@@ -22,7 +22,7 @@
 ### Contour Curve Processing for CNC Models
 [Repository](https://github.com/crubiogarcia/ContourCurveTopographyProcessing)
 
-This code constructs a stepped topography model from contour curves. It offers a systematic approach to transform CAD contour data into actionable and precise digital models. This tool has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
+This tool offers a systematic approach to transform CAD contour data into actionable and precise digital models. This has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
 
 ### Differential Growth Simulation
 [Repository](https://github.com/crubiogarcia/Differential-Growth)
