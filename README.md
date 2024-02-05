@@ -13,8 +13,7 @@ Hi, my name is Carmen and I am a Computational Designer in the Architecture team
 - Created a database of architectural elements and their ecological footprint to automate the selection of the most sustainable materials
 - Developed tools for Rhinoceros 3D
 
-## Education						       		
-  - M.S.Architecture | ETSAM	        		
+## Education						       		  		
   - B.S.Architecture | Berliner Hochschule für Technik (_Erasmus Scholarship_)
   - B.S.Architecture | Illinois Institute of Technology (_Santander Scholarship Award_)
 
