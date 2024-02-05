@@ -1,6 +1,6 @@
 # Computational Design
-**About me**
-Hi, my name is Carmen and I am a Computational Designer in the Architecture team at Foster and Partners in London.
+**About me:**
+  Hi, my name is Carmen and I am a Computational Designer in the Architecture team at Foster and Partners in London.
 #### Technical Skills: Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
 
 ## Work Experience
@@ -21,4 +21,4 @@ Hi, my name is Carmen and I am a Computational Designer in the Architecture team
 ### Contour Curve Processing for CNC Models
 [Repository](https://github.com/crubiogarcia/ContourCurveTopographyProcessing)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+This code constructs a stepped topography model from contour curves. It offers a systematic approach to transform CAD contour data into actionable and precise digital models. This tool has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
