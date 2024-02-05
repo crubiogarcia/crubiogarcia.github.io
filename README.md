@@ -30,7 +30,7 @@ This script simulates differential growth patterns in a mesh using Kangaroo Phys
 - Developed tools for Rhinoceros 3D
 
 ## Education						       		  								       		
-- M.S., Arch	| Universidad Politecnica Madrid 			        		
+- M.S., Arch	| Universidad Politecnica Madrid  (_ETSAM_) 	        		
 - B.S., Arch | Berliner Hochschule fur Technik  (_Erasmus Scholarhsip_)
 - B.S., Arch | Illinois Institute of Technology (_Santander Award_)
 
