@@ -27,8 +27,8 @@ This tool generates urban grids recursively subdividing a plot.
 
 This script (Grasshopper) maximizes the number of assets fitted along a curve using a loop (Anemone) of physical collision (Kangaroo).
 
-** **
 
+** **
 ## Work Experience
 **Computational Design at Foster + Partners, London (_February 2022 - Present_)**
 - Developed tools for inter-operability between CAD and BIM
