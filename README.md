@@ -5,8 +5,7 @@
 **I am most skilled in:**
 Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
 
-
-
+** **
 ## Projects
 ### Contour Curve Processing for CNC Models
 [Repository](https://github.com/crubiogarcia/ContourCurveTopographyProcessing)
