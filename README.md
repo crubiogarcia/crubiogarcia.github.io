@@ -25,7 +25,7 @@ This tool generates urban grids recursively subdividing a plot.
 ### Plot Fit
 [Repository](https://github.com/crubiogarcia/PlotFit)
 
-This script (Grasshopper) maximizes the number of assets fitted along a curve using a loop (Anemone) of physical collision (Kangaroo).
+This script maximizes the number of assets fitted along a curve using a loop (of physical collisions.
 
 
 ** **
