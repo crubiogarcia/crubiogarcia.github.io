@@ -13,10 +13,9 @@
 - Created a database of architectural elements and their ecological footprint to automate the selection of the most sustainable materials
 - Developed tools for Rhinoceros 3D
 
-## Education						       		  		
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		  								       		
+- M.S., Arch	| Universidad Politecnica Madrid (_December 2019_)	 			        		
+- B.S., Arch | Berliner Hochschule fur Technik  (_Erasmus Scholarhsip_)
 
 ## Projects
 ### Contour Curve Processing for CNC Models
