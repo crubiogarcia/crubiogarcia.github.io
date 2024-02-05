@@ -5,6 +5,7 @@
 **I am most skilled in:**
 Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
 
+
 ## Projects
 ### Contour Curve Processing for CNC Models
 [Repository](https://github.com/crubiogarcia/ContourCurveTopographyProcessing)
@@ -16,7 +17,7 @@ This tool offers a systematic approach to transform CAD contour data into action
 
 This script simulates differential growth patterns in a mesh using Kangaroo Physics for collision simulation and Anemone for looping.
 
-### Urban Grid Genrator
+### Urban Grid Generator
 [Repository]
 
 This tool generates urban grids recursively subdividing a plot.
@@ -27,20 +28,27 @@ This tool generates urban grids recursively subdividing a plot.
 This script (Grasshopper) maximizes the number of assets fitted along a curve using a loop (Anemone) of physical collision (Kangaroo).
 
 
+
 ## Work Experience
-**Computational Design at Foster + Partners (_February 2022 - Present_)**
+**Computational Design at Foster + Partners, London (_February 2022 - Present_)**
 - Developed tools for inter-operability between CAD and BIM
 - Complex geometry modelling
 - Automation pipelines
 
-**Computational Design at Morph Estudio (_September 2021 - January 2022_)**
+**Computational Design at Morph Estudio, Madrid (_September 2021 - January 2022_)**
 - Created a database of architectural elements and their ecological footprint to automate the selection of the most sustainable materials
 - Developed tools for Rhinoceros 3D
+  
+**Archive Internship at Norman Foster Foundation, Madrid (_June 2019 - September 2019_)**
+
+**Architecture and Computational Design Internship at Raumlabor Berlin (_January 2020 - August 2020_)**
+**Architecture Internship at FGP Atelier, Chicago (_June 2018 - December 2018_)**
 
 ## Education						       		  								       		
 - M.S., Arch	| Universidad Politecnica Madrid  (_ETSAM_) 	        		
 - B.S., Arch | Berliner Hochschule fur Technik  (_Erasmus Scholarhsip_)
 - B.S., Arch | Illinois Institute of Technology (_Santander Award_)
+
 
 ## Interests
 - Computational Design
