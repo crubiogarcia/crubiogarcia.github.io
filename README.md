@@ -22,7 +22,7 @@ This script simulates differential growth patterns in a mesh using Kangaroo Phys
 
 This tool generates urban grids recursively subdividing a plot.
 
-### Fitting Blocks along a Curve
+### Plot Fit
 [Repository](https://github.com/crubiogarcia/PlotFit)
 
 This script (Grasshopper) maximizes the number of assets fitted along a curve using a loop (Anemone) of physical collision (Kangaroo).
