@@ -27,7 +27,7 @@ This tool generates urban grids recursively subdividing a plot.
 
 This script (Grasshopper) maximizes the number of assets fitted along a curve using a loop (Anemone) of physical collision (Kangaroo).
 
-
+** **
 
 ## Work Experience
 **Computational Design at Foster + Partners, London (_February 2022 - Present_)**
@@ -44,12 +44,13 @@ This script (Grasshopper) maximizes the number of assets fitted along a curve us
 **Architecture and Computational Design Internship at Raumlabor Berlin (_January 2020 - August 2020_)**
 **Architecture Internship at FGP Atelier, Chicago (_June 2018 - December 2018_)**
 
+** **
 ## Education						       		  								       		
 - M.S., Arch	| Universidad Politecnica Madrid  (_ETSAM_) 	        		
 - B.S., Arch | Berliner Hochschule fur Technik  (_Erasmus Scholarhsip_)
 - B.S., Arch | Illinois Institute of Technology (_Santander Award_)
 
-
+** **
 ## Interests
 - Computational Design
 - Data Visualization
