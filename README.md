@@ -13,6 +13,6 @@
 - Developed tools for Rhinoceros 3D
 
 ## Education						       		
-- M.S. and B.S., Architecture and Urbanism | ETSAM Universidad Politecnica de Madrid 			        		
+- M.S., Architecture and Urbanism | Universidad Politécnica de Madrid 			        		
 - B.S., Architecture | Berliner Hochschule für Technik (_Erasmus Scholarship_)
 - B.S., Architecture | Illinois Institute of Technology (_Santander Scholarship Award_)
