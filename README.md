@@ -1,7 +1,23 @@
 # Computational Design
 **About me:**
   Hi, my name is Carmen and I am a Computational Designer in the Architecture team at Foster and Partners in London.
-#### Technical Skills: Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
+#### I am most skilled in: Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
+
+## Projects
+### Contour Curve Processing for CNC Models
+[Repository](https://github.com/crubiogarcia/ContourCurveTopographyProcessing)
+
+This tool offers a systematic approach to transform CAD contour data into actionable and precise digital models. This has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
+
+### Differential Growth Simulation
+[Repository](https://github.com/crubiogarcia/Differential-Growth)
+
+This script simulates differential growth patterns in a mesh using Kangaroo Physics for collision simulation and Anemone for looping.
+
+### Fitting Blocks along a Curve
+[Repository](https://github.com/crubiogarcia/Differential-Growth)
+
+This script simulates differential growth patterns in a mesh using Kangaroo Physics for collision simulation, looped with Anemone
 
 ## Work Experience
 **Computational Design at Foster + Partners (_February 2022 - Present_)**
@@ -17,17 +33,6 @@
 - M.S., Arch	| Universidad Politecnica Madrid 			        		
 - B.S., Arch | Berliner Hochschule fur Technik  (_Erasmus Scholarhsip_)
 - B.S., Arch | Illinois Institute of Technology (_Santander Award_)
-
-## Projects
-### Contour Curve Processing for CNC Models
-[Repository](https://github.com/crubiogarcia/ContourCurveTopographyProcessing)
-
-This tool offers a systematic approach to transform CAD contour data into actionable and precise digital models. This has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
-
-### Differential Growth Simulation
-[Repository](https://github.com/crubiogarcia/Differential-Growth)
-
-This script simulates differential growth patterns in a mesh using Kangaroo Physics for collision simulation, looped with Anemone
 
 ## Interests
 - Computational Design
