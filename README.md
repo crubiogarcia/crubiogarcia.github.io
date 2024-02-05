@@ -14,8 +14,9 @@
 - Developed tools for Rhinoceros 3D
 
 ## Education						       		  								       		
-- M.S., Arch	| Universidad Politecnica Madrid (_December 2019_)	 			        		
+- M.S., Arch	| Universidad Politecnica Madrid 			        		
 - B.S., Arch | Berliner Hochschule fur Technik  (_Erasmus Scholarhsip_)
+- B.S., Arch | Illinois Institute of Technology (_Santander Award_)
 
 ## Projects
 ### Contour Curve Processing for CNC Models
