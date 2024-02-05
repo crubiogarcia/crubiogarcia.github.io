@@ -1,5 +1,6 @@
 # Computational Design
-
+**About me**
+Hi, my name is Carmen and I am a Computational Designer in the Architecture team at Foster and Partners in London.
 #### Technical Skills: Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
 
 ## Work Experience
