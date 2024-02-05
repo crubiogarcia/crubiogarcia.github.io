@@ -14,11 +14,17 @@
 - Developed tools for Rhinoceros 3D
 
 ## Education						       		  		
-  - B.S.Architecture | Berliner Hochschule für Technik (_Erasmus Scholarship_)
-  - B.S.Architecture | Illinois Institute of Technology (_Santander Scholarship Award_)
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Projects
 ### Contour Curve Processing for CNC Models
 [Repository](https://github.com/crubiogarcia/ContourCurveTopographyProcessing)
+
+This code constructs a stepped topography model from contour curves. It offers a systematic approach to transform CAD contour data into actionable and precise digital models. This tool has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
+
+### Differential Growth Simulation
+[Repository](https://github.com/crubiogarcia/Differential-Growth)
 
 This code constructs a stepped topography model from contour curves. It offers a systematic approach to transform CAD contour data into actionable and precise digital models. This tool has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
