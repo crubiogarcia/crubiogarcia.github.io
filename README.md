@@ -13,6 +13,6 @@
 - Developed tools for Rhinoceros 3D
 
 ## Education						       		
-- M.S. Architecture | Universidad Politécnica de Madrid 			        		
-- B.S. Architecture | Berliner Hochschule für Technik (_Erasmus Scholarship_)
-- B.S. Architecture | Illinois Institute of Technology (_Santander Scholarship Award_)
+  - M.S.Architecture | Universidad Politécnica de Madrid 			        		
+  - B.S.Architecture | Berliner Hochschule für Technik (_Erasmus Scholarship_)
+  - B.S.Architecture | Illinois Institute of Technology (_Santander Scholarship Award_)
