@@ -15,10 +15,16 @@ This tool offers a systematic approach to transform CAD contour data into action
 
 This script simulates differential growth patterns in a mesh using Kangaroo Physics for collision simulation and Anemone for looping.
 
-### Fitting Blocks along a Curve
-[Repository](https://github.com/crubiogarcia/Differential-Growth)
+### Urban Grid Genrator
+[Repository]
 
-This script simulates differential growth patterns in a mesh using Kangaroo Physics for collision simulation, looped with Anemone
+This tool generates urban grids recursively subdividing a plot.
+
+### Fitting Blocks along a Curve
+[Repository](https://github.com/crubiogarcia/PlotFit)
+
+This script (Grasshopper) maximizes the number of assets fitted along a curve using a loop (Anemone) of physical collision (Kangaroo).
+
 
 ## Work Experience
 **Computational Design at Foster + Partners (_February 2022 - Present_)**
