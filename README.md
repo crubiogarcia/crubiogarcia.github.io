@@ -26,7 +26,7 @@ A set of tools in Python for Grasshopper to generates urban grids.
 ### Plot Fit  
 [Repository](https://github.com/crubiogarcia/PlotFit)
 
-This script maximizes the number of assets fitted along a curve using a loop (of physical collisions.  
+This script maximizes the number of assets fitted along a curve using a loop of physical collisions.  
 ![Plot Fit](/assets/img/PlotFit.png)
 
 ** **
@@ -40,7 +40,8 @@ This script maximizes the number of assets fitted along a curve using a loop (of
 - Created a database of architectural elements and their ecological footprint to automate the selection of the most sustainable materials
 - Developed tools for Rhinoceros 3D
   
-**Archive Internship at Norman Foster Foundation, Madrid**  (_June 2019 - September 2019_)
+**Archive Internship at Norman Foster Foundation, Madrid**  
+(_June 2019 - September 2019_)
 
 **Architecture and Computational Design Internship at Raumlabor Berlin** (_January 2020 - August 2020_)
 **Architecture Internship at FGP Atelier, Chicago** (_June 2018 - December 2018_)
