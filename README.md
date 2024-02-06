@@ -27,7 +27,7 @@ This tool generates urban grids recursively subdividing a plot.
 [Repository](https://github.com/crubiogarcia/PlotFit)
 
 This script maximizes the number of assets fitted along a curve using a loop (of physical collisions.
-![Plot Fit](/assets/img/PlotFitDiagram.png)
+![Plot Fit](/assets/img/PlotFit.png)
 
 ** **
 ## Work Experience
