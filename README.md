@@ -22,7 +22,7 @@ This script simulates differential growth patterns in a mesh using Kangaroo Phys
 [Repository](https://github.com/crubiogarcia/Urban-Grid-Tools)
 
 A set of tools in Python for Grasshopper to generates urban grids.
-![Urban Grid](/assets/img/UrganGridDiagram.png)
+![Urban Grid](/assets/img/UrganGrid.png)
 
 ### Plot Fit  
 [Repository](https://github.com/crubiogarcia/PlotFit)
