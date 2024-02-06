@@ -14,6 +14,7 @@ This tool offers a systematic approach to transform CAD contour data into action
 
 ### Differential Growth Simulation
 [Repository](https://github.com/crubiogarcia/Differential-Growth)
+
 This script simulates differential growth patterns in a mesh using Kangaroo Physics for collision simulation and Anemone for looping.
 ![Differential Growth](/assets/img/differential_growth.png)
 
