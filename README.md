@@ -46,7 +46,7 @@ This script maximizes the number of assets fitted along a curve using a loop of 
 **Archive Internship at Norman Foster Foundation, Madrid**  
 (_June 2019 - September 2019_)
 
-**Architecture and Computational Design Internship at Raumlabor Berlin** 
+**Architecture and Computational Design Internship at Raumlabor, Berlin** 
 (_January 2020 - August 2020_)
 
 **Architecture Internship at FGP Atelier, Chicago** 
