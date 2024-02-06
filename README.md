@@ -34,9 +34,10 @@ This script implements a method for placing building assets along a curve. It ma
 ## Work Experience
 **Computational Design at Foster + Partners, London**  
 (_February 2022 - Present_)
-- Developed tools for inter-operability between CAD and BIM
 - Complex geometry modelling
 - Automation pipelines
+- Geometry optimization workflows
+- Developed tools for inter-operability between CAD and BIM
 
 **Computational Design at Morph Estudio, Madrid**  
 (_September 2021 - January 2022_)
@@ -46,7 +47,7 @@ This script implements a method for placing building assets along a curve. It ma
 **Archive Internship at Norman Foster Foundation, Madrid**  
 (_June 2019 - September 2019_)
 
-**Architecture Computational Design Internship at Raumlabor, Berlin**    
+**Architecture Internship at Raumlabor, Berlin**    
 (_January 2020 - August 2020_)
 
 **Architecture Internship at FGP Atelier, Chicago**     
