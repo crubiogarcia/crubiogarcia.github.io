@@ -22,6 +22,7 @@ This script simulates differential growth patterns in a mesh using Kangaroo Phys
 [Repository](https://github.com/crubiogarcia/Urban-Grid-Tools)
 
 A set of tools in Python for Grasshopper to generates urban grids.
+![Urban Grid](/assets/img/UrganGridDiagram.png)
 
 ### Plot Fit  
 [Repository](https://github.com/crubiogarcia/PlotFit)
@@ -48,7 +49,7 @@ This script maximizes the number of assets fitted along a curve using a loop of 
 **Architecture and Computational Design Internship at Raumlabor Berlin** 
 (_January 2020 - August 2020_)
 
-**Architecture Internship at FGP Atelier, Chicago** 
+**Architecture Internship at FGP Atelier, Chicago**
 (_June 2018 - December 2018_)
 
 ** **
