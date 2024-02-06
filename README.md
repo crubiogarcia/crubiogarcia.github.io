@@ -15,7 +15,7 @@ This tool offers a systematic approach to transform CAD contour data into action
 ### Differential Growth Simulation
 [Repository](https://github.com/crubiogarcia/Differential-Growth)
 
-Differential growth is when different parts of an organism grow at varying rates or directions, altering its form. Through procedural generation, this algorithm simulates the growth of plants and other organic structures by incorporating natural growth principles This method allows the creation of highly realistic and visually appealing environments in computer graphics. This script simulates differential growth patterns in a mesh using Kangaroo Physics for collision simulation and Anemone for looping.
+Differential growth is when different parts of an organism grow at varying rates or directions, altering its form. Through procedural generation, this algorithm simulates the growth of plants and other organic structures by incorporating natural growth principles This method allows the creation of highly realistic environments in computer graphics. This script simulates differential growth patterns in a mesh using Kangaroo Physics.
 ![Differential Growth](/assets/img/differential.png)
 
 ### Urban Grid Tools
@@ -27,7 +27,7 @@ A set of tools in Python for Grasshopper to generates urban grids.
 ### Plot Fit  
 [Repository](https://github.com/crubiogarcia/PlotFit)
 
-This script maximizes the number of assets fitted along a curve using a loop of physical collisions.  
+This script implements a method for placing building assets along a curve. It maximizes the number of assets positioned along a curve running a test fit through a loop of physical collisions.
 ![Plot Fit](/assets/img/PlotFit.png)
 
 ** **
