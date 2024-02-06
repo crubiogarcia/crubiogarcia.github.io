@@ -36,7 +36,7 @@ This script maximizes the number of assets fitted along a curve using a loop (of
 - Complex geometry modelling
 - Automation pipelines
 
-**Computational Design at Morph Estudio, Madrid **  (_September 2021 - January 2022_)
+**Computational Design at Morph Estudio, Madrid**  (_September 2021 - January 2022_)
 - Created a database of architectural elements and their ecological footprint to automate the selection of the most sustainable materials
 - Developed tools for Rhinoceros 3D
   
