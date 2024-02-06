@@ -18,8 +18,8 @@ This tool offers a systematic approach to transform CAD contour data into action
 This script simulates differential growth patterns in a mesh using Kangaroo Physics for collision simulation and Anemone for looping.
 ![Differential Growth](/assets/img/differential.png)
 
-### Urban Grid Generator
-[Repository]
+### Urban Grid Tools
+[Repository](https://github.com/crubiogarcia/Urban-Grid-Tools)
 
 This tool generates urban grids recursively subdividing a plot.
 
