@@ -3,6 +3,7 @@
   Hi, my name is Carmen and I am a Computational Designer at Foster and Partners in London.
   
   In my free time, I model complex parametrical geometries and develop Python components for Grasshopper.
+
 **I am most skilled in:**
 Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
 
