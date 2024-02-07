@@ -44,7 +44,7 @@ This script implements a method for placing building assets along a curve. It ma
 **Computational Design at Morph Estudio, Madrid**  
 (_September 2021 - January 2022_)
 - Created a database of architectural elements and their ecological footprint to automate the selection of the most sustainable materials
-- Developed tools for Rhinoceros 3D
+- Developed tools for Rhinoceros 
   
 **Archive Internship at Norman Foster Foundation, Madrid**  
 (_June 2019 - September 2019_)
