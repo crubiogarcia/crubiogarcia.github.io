@@ -17,7 +17,7 @@ This tool offers a systematic approach to transform CAD contour data into action
 ### Differential Growth Simulation
 [Repository](https://github.com/crubiogarcia/Differential-Growth)
 
-Differential growth is when different parts of an organism grow at varying rates or directions, altering its form. Through procedural generation, this algorithm simulates the growth of plants and other organic structures. This method allows the creation of highly realistic environments in computer graphics. This script simulates differential growth patterns in a mesh using Kangaroo Physics.
+Differential growth is when different parts of an organism grow at varying rates or directions, altering its form. Through procedural generation, this algorithm simulates the growth of organic structures. This method allows the creation of highly realistic environments in computer graphics. This script simulates differential growth patterns in a mesh using Kangaroo Physics.
 ![Differential Growth](/assets/img/differential.png)
 
 ### Urban Grid Tools
