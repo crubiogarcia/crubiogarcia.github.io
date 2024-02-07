@@ -34,14 +34,14 @@ This script implements a method for placing building assets along a curve. It ma
 
 ** **
 ## Work Experience
-**Computational Design at Foster + Partners, London**  
+**Computational Designer at Foster + Partners, London**  
 (_February 2022 - Present_)
 - Complex geometry modelling
 - Automation pipelines
 - Geometry optimization workflows
 - Developed tools for inter-operability between CAD and BIM
 
-**Computational Design at Morph Estudio, Madrid**  
+**Computational Designer at Morph Estudio, Madrid**  
 (_September 2021 - January 2022_)
 - Created a database of architectural elements and their ecological footprint to automate the selection of the most sustainable materials
 - Developed tools for Rhinoceros 
