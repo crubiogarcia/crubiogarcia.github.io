@@ -14,6 +14,13 @@ Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
 
 This tool offers a systematic approach to transform CAD contour data into actionable and precise digital models. This has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
 
+### Bachelor Thesis: Developing Machine Learning Models for Predictive Analysis: 
+Learning from Airbnb data to uderstand urban dynamics in Madrid, Berlin and Chicago
+
+This thesis proposes to explore the tools of artificial intelligence applied to Urban Analysis through the study of Airbnb data. 
+
+[Link to publication (Spanish)](https://oa.upm.es/65083/)
+
 ### Differential Growth Simulation
 [Repository](https://github.com/crubiogarcia/Differential-Growth)
 
