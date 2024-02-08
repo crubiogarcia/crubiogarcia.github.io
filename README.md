@@ -14,7 +14,7 @@ Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
 
 This tool offers a systematic approach to transform CAD contour data into actionable and precise digital models. This has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
 
-### BArch Thesis: Developing Machine Learning Models for Predictive Analysis.Learning from Airbnb data to understand Urban Dynamics 
+### BArch Thesis: Developing Machine Learning Models for Predictive Analysis. _Learning from Airbnb data to understand Urban Dynamics_ 
 
 This thesis proposes to explore the tools of artificial intelligence for urban analysis through the study of Airbnb data from three case studies: Madrid, Berlin, and Chicago.
 
