@@ -19,6 +19,7 @@ This tool offers a systematic approach to transform CAD contour data into action
 BArch Thesis. This research project explores  artificial intelligence and big data for urban analysis through the study of Airbnb data from three case studies: Madrid, Berlin, and Chicago.
 
 [Link to publication (Spanish)](https://oa.upm.es/65083/)
+[Link to summary (English)](https://raw.githubusercontent.com/crubiogarcia/Urban-Dynamics-Data-Analysis-Machine-Learning/main/BachelorThesis_Urban%20Dynamics.pdf)
 
 ### Differential Growth Simulation
 [Repository](https://github.com/crubiogarcia/Differential-Growth)
