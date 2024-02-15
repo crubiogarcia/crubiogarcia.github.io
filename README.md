@@ -25,7 +25,8 @@ BArch Thesis. This research project explores  artificial intelligence and big da
 
 ### Differential Growth Simulation
 
-Differential growth is when different parts of an organism grow at varying rates or directions, altering its form. Through procedural generation, this algorithm simulates the growth of organic structures. This method allows the creation of highly realistic environments in computer graphics. This script simulates differential growth patterns in a mesh using Kangaroo Physics.  
+Differential growth is when different parts of an organism grow at varying rates or directions, altering its form. Through procedural generation, this algorithm simulates the growth of organic structures. This method allows the creation of highly realistic environments in computer graphics. This script simulates differential growth patterns in a mesh using Kangaroo Physics.
+  
 [Repository](https://github.com/crubiogarcia/Differential-Growth)  
 ![Differential Growth](/assets/img/differential.png)
 
