@@ -10,9 +10,10 @@ Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
 ** **
 ## Projects
 ### Contour Curve Processing for CNC Models
-[Repository](https://github.com/crubiogarcia/ContourCurveTopographyProcessing)
 
 This tool offers a systematic approach to transform CAD contour data into actionable and precise digital models. This has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
+
+[Repository](https://github.com/crubiogarcia/ContourCurveTopographyProcessing)
 
 ### Urban Dynamics: Data Analysis and Machine Learning for Understanding Contemporary Cities. Learning from Airbnb
 
@@ -22,9 +23,9 @@ BArch Thesis. This research project explores  artificial intelligence and big da
 [Link to summary (English)](https://raw.githubusercontent.com/crubiogarcia/Urban-Dynamics-Data-Analysis-Machine-Learning/main/BachelorThesis_Urban%20Dynamics.pdf)
 
 ### Differential Growth Simulation
-[Repository](https://github.com/crubiogarcia/Differential-Growth)
 
 Differential growth is when different parts of an organism grow at varying rates or directions, altering its form. Through procedural generation, this algorithm simulates the growth of organic structures. This method allows the creation of highly realistic environments in computer graphics. This script simulates differential growth patterns in a mesh using Kangaroo Physics.
+[Repository](https://github.com/crubiogarcia/Differential-Growth)  
 ![Differential Growth](/assets/img/differential.png)
 
 ### Urban Grid Tools
