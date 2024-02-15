@@ -21,7 +21,7 @@ BArch Thesis. This research project explores  artificial intelligence and big da
 
 [Link to publication (Spanish)](https://oa.upm.es/65083/)  
 [Link to summary (English)](https://raw.githubusercontent.com/crubiogarcia/Urban-Dynamics-Data-Analysis-Machine-Learning/main/BachelorThesis_Urban%20Dynamics.pdf)  
-![Bachelor Thesis](/assets/img/maps.png)
+![Bachelor Thesis](/assets/img/thesis.png)
 
 ### Differential Growth Simulation
 
