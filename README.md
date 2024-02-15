@@ -61,6 +61,7 @@ This script implements a method for placing building assets along a curve. It ma
 
 **Architecture Internship at Raumlabor, Berlin**    
 (_January 2020 - August 2020_)
+- Parametric modelling
 
 **Architecture Internship at FGP Atelier, Chicago**     
 (_June 2018 - December 2018_)
