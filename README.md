@@ -33,7 +33,7 @@ Differential growth is when different parts of an organism grow at varying rates
 ### Urban Grid Tools
 [Repository](https://github.com/crubiogarcia/Urban-Grid-Tools)
 
-A set of tools in Python for Grasshopper to generates urban grids.
+A set of tools in Python for Grasshopper to generate urban grids.
 ![Urban Grid](/assets/img/UrganGrid.png)
 
 ### Plot Fit  
