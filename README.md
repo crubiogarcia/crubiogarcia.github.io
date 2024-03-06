@@ -46,6 +46,7 @@ This script implements a method for placing building assets along a curve. It ma
 ## Work Experience
 **Computational Designer at Foster + Partners, London**  
 (_February 2022 - Present_)
+- Computational Urbanism
 - Complex geometry modelling
 - Automation pipelines
 - Geometry optimization workflows
