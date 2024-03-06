@@ -2,7 +2,7 @@
 **About me:**
   Hi, my name is Carmen and I am a Computational Designer at Foster + Partners in London.
   
-  In my free time, I model complex parametrical geometries and develop components for Grasshopper and Rhinoceros.
+  In my free time, I model complex parametrical geometries, urban models and develop components for Grasshopper and Rhinoceros.
 
 **I am most skilled in:**
 Grasshopper, Python, C#, Dynamo, Rhinoceros, Revit
@@ -74,6 +74,7 @@ This script implements a method for placing building assets along a curve. It ma
 
 ** **
 ## Interests
+- Computational Urbanism
 - Computational Design
 - Data Visualization
 - Complex geometry modelling
