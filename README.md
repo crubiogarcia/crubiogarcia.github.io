@@ -1,6 +1,6 @@
 # Computational Design
 **About me:**
-  Hi, my name is Carmen and I am a Computational Designer at Foster + Partners in London.
+  Hi, my name is Carmen and I am an Architect and Computational Designer at Foster + Partners in London.
   
   In my free time, I model complex parametrical geometries, urban models and develop components for Grasshopper and Rhinoceros.
 
