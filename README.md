@@ -75,7 +75,7 @@ This script implements a method for placing building assets along a curve. It ma
 
 ** **
 ## Interests
-- Computational Urbanism
+- Computational Dynamics
 - Computational Design
 - Data Visualization
 - Complex geometry modelling
