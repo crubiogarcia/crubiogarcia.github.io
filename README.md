@@ -56,13 +56,12 @@ This script implements a method for placing building assets along a curve. It ma
 (_September 2021 - January 2022_)
 - Created a database of architectural elements and their ecological footprint to automate the selection of the most sustainable materials
 - Developed tools for Rhinoceros 
-  
+
+  **Architecture Internship at Raumlabor, Berlin**    
+(_January 2020 - August 2020_)
+- Parametric modelling 
 **Archive Internship at Norman Foster Foundation, Madrid**  
 (_June 2019 - September 2019_)
-
-**Architecture Internship at Raumlabor, Berlin**    
-(_January 2020 - August 2020_)
-- Parametric modelling
 
 **Architecture Internship at FGP Atelier, Chicago**     
 (_June 2018 - December 2018_)
