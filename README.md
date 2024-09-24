@@ -2,7 +2,7 @@
 **About me:**
   Hi, my name is Carmen and I am an Architect and Computational Designer at Foster + Partners in London.
   
-  In my free time, I am interested in software development, complex geometries, urban models and code components for different programs as ArcGIS, Grasshopper and Rhinoceros.
+  In my free time, I am interested in software development, complex geometries, urban models and code components for different softwares as ArcGIS, Grasshopper and Rhinoceros.
 
 **I am most skilled in:**
 Grasshopper, Python, C#, GIS, Dynamo, Rhinoceros, Revit
