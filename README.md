@@ -9,6 +9,15 @@ Grasshopper, Python, C#, GIS, Dynamo, Rhinoceros, Revit
 
 ** **
 ## Projects
+### Moth Grasshopper Plugin
+
+Moth is a fun toolkit with various functionalities that I have found useful throughout my years of working with Grasshopper. It is available in the Rhino Package Manager!
+
+Some key features are: mesh face clustering, quick urban grid generation, tools for graphs and image metadata extraction. 
+
+[Repository](https://github.com/crubiogarcia/Moth-Grasshopper-Plugin)
+[Food4Rhino](https://www.food4rhino.com/en/app/moth)
+
 ### Contour Curve Processing for CNC Models
 
 This tool offers a systematic approach to transform CAD contour data into actionable and precise digital models. This has been particularly beneficial in preparing files containing a large volume of topography data for the creation of contour-stepped models through CNC machining. 
